@@ -10,7 +10,11 @@ I'm Fabio and I'm a physicist with a passion for Artifical Inteligence. After do
 
 📫 Reach me!
   E-mail:         fnegreirosribeiro@gmail.com
+  
   Google Scholar: https://scholar.google.com/citations?user=f4L4X04AAAAJ&hl=es
+  
   Linkedin:       https://www.linkedin.com/in/fnegreirosribeiro/
+  
   Kaggle:         https://www.kaggle.com/fbionegreirosribeiro
+  
   HackerRank:     https://www.hackerrank.com/fnegreirosribei1
