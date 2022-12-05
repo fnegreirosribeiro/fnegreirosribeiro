@@ -9,6 +9,7 @@ I'm Fabio and I'm a physicist with a passion for Artifical Inteligence. After do
 👯 I’m open for collaboration! I code in Python and C++, and I am very comfortable using terminals and writing Bash scripts, since I am a heavy Linux user.
 
 📫 Reach me!
+
   E-mail:         fnegreirosribeiro@gmail.com
   
   Google Scholar: https://scholar.google.com/citations?user=f4L4X04AAAAJ&hl=es
