@@ -1,10 +1,18 @@
 ### Hi there 👋
 
-I'm Fabio and I'm a physicist with a passion for Artifical Inteligence. After doing it as a hobby for several years, I finnaly decided to make a career change. I have graduated in a Data Science courses from Digital House and I am now developing my own projects and participating in Kaggle competitions to improve my skills.
+I'm a Senior Data Scientist at Mercado Libre with more than three years of experience designing and building production AI systems at scale.
 
-🔭 I’m currently working as a Machine Learning Engineer in Mercado Libre, Argentina. 
+My work spans machine learning, software engineering, and AI platform development, with a strong focus on designing production systems that are scalable, reliable, and deliver measurable business impact. I enjoy operating at the intersection of data science and engineering, where model quality, system design, scalability, observability, and developer experience all matter equally.
 
-👯 I’m open for collaboration! I code in Python and C++, and I am very comfortable using terminals and writing Bash scripts, since I am a heavy Linux user.
+Over the past few years I've helped build large-scale AI infrastructure, contributing across the full lifecycle: early research, architecture definition, API design, production implementation, evaluation frameworks, testing strategies, and operational improvements. Much of my recent work has focused on Knowledge Memory systems for AI agents, including retrieval pipelines, multimodal processing, model evaluation, developer tooling, and production-ready services that support intelligent applications.
+
+My academic background as a physicist trained me to approach complex problems with rigor, curiosity, and a strong quantitative mindset. Today, I apply those same principles to designing systems that are not only intelligent, but also robust, maintainable, and impactful for millions of users.
+
+I enjoy leading ambiguous technical initiatives, connecting research with engineering execution, and helping teams turn ideas into products. I'm particularly interested in LLMs, agentic systems, AI infrastructure, distributed systems, and the engineering practices that make AI reliable in production.
+
+I believe the best technical solutions emerge from collaboration, pragmatic decision-making, and a constant focus on delivering real value.
+
+🔭 I’m currently working as a Senior Machine Learning Engineer in Mercado Libre, Argentina. 
 
 📫 Reach me!
 
