@@ -12,7 +12,7 @@ I enjoy leading ambiguous technical initiatives, connecting research with engine
 
 I believe the best technical solutions emerge from collaboration, pragmatic decision-making, and a constant focus on delivering real value.
 
-🔭 I’m currently working as a Senior Machine Learning Engineer in Mercado Libre, Argentina. 
+🔭 I’m currently working as a Senior Data Scientist in Mercado Libre, Argentina. 
 
 📫 Reach me!
 
